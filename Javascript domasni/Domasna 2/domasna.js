@@ -11,7 +11,7 @@ function concatenate(x,y,boolean){
     
         console.log(y + x);
     }
-    console.log("test")
+    
     
     
     
