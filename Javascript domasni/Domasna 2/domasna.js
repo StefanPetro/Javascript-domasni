@@ -18,7 +18,7 @@ function concatenate(x,y,boolean){
     
     }
     
-    concatenate("Stefan","Petrov",true);
+    concatenate("Stefan","Petrovski",true);
 
 
     function calculateTax(salary,jobDescription){
